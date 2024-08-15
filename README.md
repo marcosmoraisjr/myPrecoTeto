@@ -1,4 +1,4 @@
-﻿# myPrecoTeto
+﻿# myPrecoTeto 😁
 # Parti 1
 # Análise de Dividendos de Ativos
 
